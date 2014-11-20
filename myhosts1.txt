@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2014-11-20 15:00:00 GR
+#+UPDATE_TIME 2014-11-20 19:00:00 GR
 
 #Current Version 9.0
 #Newest version at http://go.netsh.org/link/gethosts
@@ -1797,8 +1797,8 @@ static.ak.fbcdn.net		origincache-starfacebook-ai-01-05-ash3.facebook.com
 74.125.129.98    maps.l.google.com
 74.125.129.98    maps-api-ssl.google.com
 74.125.129.98    mars.google.com
-74.125.129.98    mobile.l.google.com
-74.125.129.98    mobile-gtalk.l.google.com
+74.125.21.98    mobile.l.google.com
+74.125.21.98    mobile-gtalk.l.google.com
 74.125.129.98    mobilemaps.clients.google.com
 74.125.129.98    mt.google.com
 74.125.129.98    mt.l.google.com
@@ -1806,7 +1806,7 @@ static.ak.fbcdn.net		origincache-starfacebook-ai-01-05-ash3.facebook.com
 74.125.129.98    mt1.google.com
 74.125.129.98    mt2.google.com
 74.125.129.98    mt3.google.com
-74.125.129.98    mtalk.google.com
+64.233.185.188   mtalk.google.com
 74.125.129.98    mts.google.com
 74.125.129.98    mts.l.google.com
 74.125.129.98    mts0.google.com
@@ -1942,7 +1942,7 @@ static.ak.fbcdn.net		origincache-starfacebook-ai-01-05-ash3.facebook.com
 74.125.198.84    accounts.google.com
 74.125.129.98    m.google.com
 74.125.129.51    adwords.google.com
-74.125.129.98    talk.google.com
+64.233.185.125    talk.google.com
 74.125.129.98    google.com
 74.125.129.98    domains.google.com
 74.125.129.98    gmail.google.com
@@ -1954,8 +1954,8 @@ static.ak.fbcdn.net		origincache-starfacebook-ai-01-05-ash3.facebook.com
 74.125.129.98    www4-china.l.google.com
 74.125.129.98    android.l.google.com
 74.125.129.98    googlehosted.l.google.com
-74.125.129.98    talkx.l.google.com
-74.125.129.98    talk.l.google.com
+64.233.185.125    talkx.l.google.com
+64.233.185.125    talk.l.google.com
 74.125.129.98    ext.google.com
 74.125.129.98    pki.google.com
 74.125.129.98    uploads.clients.google.com
