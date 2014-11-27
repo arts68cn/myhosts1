@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2014-11-26 18:00:00 GR
+#+UPDATE_TIME 2014-11-27 10:00:00 GR
 
 #Current Version 9.0
 #Newest version at http://go.netsh.org/link/gethosts
@@ -1804,7 +1804,7 @@ fe80::1%lo0	localhost
 173.194.120.65    mt1.google.com
 173.194.120.65    mt2.google.com
 173.194.120.65    mt3.google.com
-173.194.120.65    mtalk.google.com
+64.233.185.188    mtalk.google.com
 173.194.120.65    mts.google.com
 173.194.120.65    mts.l.google.com
 173.194.120.65    mts0.google.com
