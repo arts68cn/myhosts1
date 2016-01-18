@@ -24,8 +24,8 @@
 
 #GoogleGCM
 #202.65.246.80 www.google.com.hk
-64.233.182.188 mtalk.google.com
-#64.233.185.188 mtalk.google.com
+#64.233.182.188 mtalk.google.com
+64.233.185.188 mtalk.google.com
 #64.233.186.188 mtalk.google.com
 
 #END
