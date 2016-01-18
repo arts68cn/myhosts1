@@ -27,12 +27,5 @@
 64.233.182.188 mtalk.google.com
 #64.233.185.188 mtalk.google.com
 #64.233.186.188 mtalk.google.com
-64.233.182.188  hangout.google.com
-64.233.182.188  hangouts.google.com
-64.233.182.188  www-hangouts-opensocial.googleusercontent.com
-64.233.182.188    9gbg8d94v5ctadt6ar5f0cgi03hatscu-a-hangout-opensocial.googleusercontent.com
-
-
-
 
 #END
